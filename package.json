@@ -1,0 +1,28 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learn node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NaveedMaq/node-farm.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Naveed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveedMaq/node-farm/issues"
+  },
+  "homepage": "https://github.com/NaveedMaq/node-farm#readme",
+  "dependencies": {
+    "slugify": "~1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
